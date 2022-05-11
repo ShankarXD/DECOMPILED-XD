@@ -1,6 +1,6 @@
 # Decompile by Mardis (Tools By Kapten-Kaizo)
 # Time Succes decompile : 2022-05-08 13:06:46.384065
-﻿#coding: utf-8
+# coding: utf-8
 
 import os
 try:
